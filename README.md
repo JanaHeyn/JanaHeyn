@@ -13,7 +13,7 @@ Frontend Development | Fullstack Development | Backend Development
 - 😄 Pronouns: She/Her
 
 ## Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://en.wikipedia.org/wiki/HTML5#/media/File:HTML5_logo_and_wordmark.svg" width="36" height="36" alt="html5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="36" height="36" alt="html5" /></a>
 
 
 <!--
