@@ -1,6 +1,7 @@
 ### Hi out there 👋 
 
 Hello, my name is Jana Heyn and i am from Cologne, Germany.
+
 Currently i am a fullstack developer student at DCI.
 
 ## Skills:
