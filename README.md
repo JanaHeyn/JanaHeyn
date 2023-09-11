@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi out there 👋 
+
+Hello, my name is Jana Heyn and i am from Cologne, Germany.
+Currently i am a fullstack developer student at DCI.
+
+## Skills:
+Frontend Development | Fullstack Development | Backend Development
+
+- 🔭 I am working on several projects to deepen my knowledge of the MERN stack
+- 🌱 I’m currently learning backend
+- 🔍️ Looking for a fullstack developer job after graduation
+- 📫 How to reach me: jana.heyn@web.de
+- 😄 Pronouns: She/Her
+
+## Tools:
+
 
 <!--
 **JanaHeyn/JanaHeyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
