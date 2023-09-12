@@ -2,7 +2,9 @@
 
 Hello, my name is Jana Heyn and i am from Cologne, Germany.
 
-Currently i am a fullstack developer student at DCI.
+Fullstack developer student at DCI, but open for work.
+
+I have always been at home in the digital world. Whether in the 10+ years of experience as a DI operator in the film and television world or in my new passion as a junior fullstack developer, I love to develop, work on and optimize something. I am looking forward to great and exciting opportunities to unite technical design and fullstack web development
 
 ## Skills:
 Frontend Development | Fullstack Development | Backend Development
