@@ -1,6 +1,6 @@
 ### Hi out there 👋 
 
-Hello, my name is Jana Heyn and i am from Cologne, Germany.
+Hello, my name is Jana Heyn and i am based in Cologne, Germany.
 
 ![](Readme_Banner.png)
 
