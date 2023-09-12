@@ -8,16 +8,13 @@ Fullstack developer student at DCI, but open for work.
 
 I have always been at home in the digital world. Whether in the 10+ years of experience as a DI operator in the film and television world or in my new passion as a junior fullstack developer, I love to develop, work on and optimize something. I am looking forward to great and exciting opportunities to unite technical design and fullstack web development
 
-## Skills:
-Frontend Development | Fullstack Development | Backend Development
-
 - 🔭 I am working on several projects to deepen my knowledge of the MERN stack
 - 🌱 I’m currently learning backend
 - 🔍️ Looking for a fullstack developer job after graduation
 - 📫 How to reach me: jana.heyn@web.de
 - 😄 Pronouns: She/Her
 
-## Tools
+## Skills / Tools
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
