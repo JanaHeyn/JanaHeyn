@@ -2,7 +2,7 @@
 
 Hello, my name is Jana Heyn and i am based in Cologne, Germany.
 
-![](readme_banner.png)
+![](Readme_Banner.png)
 
 Fullstack developer student at DCI, but open for work.
 
