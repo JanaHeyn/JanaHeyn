@@ -8,9 +8,9 @@ Fullstack developer student at DCI, but open for work.
 
 I have always been at home in the digital world. Whether in the 10+ years of experience as a DI operator in the film and television world or in my new passion as a junior fullstack developer, I love to develop, work on and optimize something. I am looking forward to great and exciting opportunities to unite technical design and fullstack web development
 
-- 🔭 I am working on several projects to deepen my knowledge of the MERN stack
-- 🌱 I’m currently learning backend
-- 🔍️ Looking for a fullstack developer job after graduation
+- 🔭 Proud to be part of our project: GoingFor
+- 🌱 I’m currently learning... Learning and deepening (new) technologies is my everyday life!
+- 🔍️ Looking for a fullstack developer job
 - 📫 How to reach me: jana.heyn@web.de
 - 😄 Pronouns: She/Her
 
