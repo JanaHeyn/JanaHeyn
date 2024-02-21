@@ -27,9 +27,9 @@ I have always been at home in the digital world. Whether in the 10+ years of exp
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/> 
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" title="mongoDB"/>
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" title="Postman"/>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/> 
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm"/>
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code"/> 
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
 
 
