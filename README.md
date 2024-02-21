@@ -34,7 +34,7 @@ I have always been at home in the digital world. Whether in the 10+ years of exp
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" title="Photoshop"/>
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" style ="color: red" alt="Apple" title="Apple"/>
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" title="Apple"/>
 </p>
 
 
