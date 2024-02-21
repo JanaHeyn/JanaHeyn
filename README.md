@@ -15,12 +15,12 @@ I have always been at home in the digital world. Whether in the 10+ years of exp
 - 😄 Pronouns: She/Her
 
 ## Skills / Tools
-<a href="https://www.w3.org/html/"><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></a>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/> 
-<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
-<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"  title="TypeScript"/>
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" title="Sass"/>
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap"/> 
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript"  title="TypeScript"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" title="Angular"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>  
