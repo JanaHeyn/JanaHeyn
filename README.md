@@ -30,7 +30,7 @@ I have always been at home in the digital world. Whether in the 10+ years of exp
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm"/>
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code"/> 
-<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" title="GitHub"/>
 
 
 
