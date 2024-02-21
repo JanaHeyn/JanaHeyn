@@ -33,8 +33,10 @@ I have always been at home in the digital world. Whether in the 10+ years of exp
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>  
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" title="Photoshop"/>
+<!--
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple" title="Apple"/>
+-->
 </p>
 
 
