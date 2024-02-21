@@ -15,6 +15,7 @@ I have always been at home in the digital world. Whether in the 10+ years of exp
 - 😄 Pronouns: She/Her
 
 ## Skills / Tools
+<p algin="left">
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" title="Sass"/>
@@ -30,7 +31,9 @@ I have always been at home in the digital world. Whether in the 10+ years of exp
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm"/>
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code"/> 
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" title="GitHub"/>
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" title="GitHub"/>  
+</p>
+
 
 
 
